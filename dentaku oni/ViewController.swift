@@ -104,6 +104,8 @@ class ViewController: UIViewController {
         }
         label.text = String(number3)
         
+        
+        
     }
     
     @IBAction func clear() {
